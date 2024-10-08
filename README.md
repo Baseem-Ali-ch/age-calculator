@@ -1,4 +1,4 @@
-# 2048 Game
+# Age Calculator
 
 An easy age calculator!
 https://baseem-ali-ch.github.io/age-calculator/
