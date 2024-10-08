@@ -18,4 +18,4 @@ https://baseem-ali-ch.github.io/age-calculator/
 
 # Screenshot
 
-![screenshot](age calc.png)
+![screenshot](age%20calc.png)
